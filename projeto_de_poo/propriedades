@@ -1,0 +1,4 @@
+sistema_de_agencia_path = jdbc:postgresql://localhost
+sistema_de_agencia_port = 5432
+sistema_de_agencia_database_name = BDI
+teste = 1
